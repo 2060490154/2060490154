@@ -1,4 +1,4 @@
-#c学习
+# c学习
 '''
 #include<studio.h>
 int main(void)
